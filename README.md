@@ -32,7 +32,7 @@ src/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/react-password-generator.git  
+git clone https://github.com/hanoon-07/react-password-generator.git  
 cd react-password-generator
 
 2. Install dependencies:
